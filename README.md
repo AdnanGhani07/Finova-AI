@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💰 Expense Tracker AI
+# 💰 Finova AI
 
 **An enterprise-grade, serverless personal finance application built with Next.js 15, Google Gemini 3.5 Flash Lite, Neon Serverless Postgres, and Clerk Authentication.**
 
